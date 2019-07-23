@@ -1,3 +1,3 @@
-def meal_choice(veg1, veg2)
-  puts "#{veg1} and #{veg2}."
+def meal_choice(veg1, veg2, protein="nil")
+  puts "What a nutricious meal!"
 end
